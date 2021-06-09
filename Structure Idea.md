@@ -13,7 +13,7 @@ General a flat structure where all the files except templates, images and such a
 	- Sectors
 	- Organizations
 
-## Example Org.
+## Example Org. #❗️
 
 ---
 tags: 📝/🟢 (soft link determine the status of the note)
@@ -35,3 +35,6 @@ Related:
 
 You don't necessarily need to create the [[Finans]] as of now, the link will still be shown. And as the repo grows and more links points to [[Finans]] the tag will scale, and by then you could consider making it a MOC (Map of content).
 
+By doing so the linking and graph will look like this:
+
+![[Pasted image 20210610001349.png]]

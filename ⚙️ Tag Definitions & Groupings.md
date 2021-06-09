@@ -12,6 +12,13 @@ cssclass:
 	- 🔴 : Not Processed
 - 🗺️ ==Maps of Content (the emerging organizational structure)==
 - ⚙️ ==General utilities==
-	- eg. [[⚙️ Tag Definitions & Groupings]]
+	- [[⚙️ Tag Definitions & Groupings]]
+	- [[❗️ Review]]
+- ❗️ ==Review needed==
+
+- ==Sectors:== #❗️
+	- Tele
+	- Finans
+	- Energi
 
 ---
